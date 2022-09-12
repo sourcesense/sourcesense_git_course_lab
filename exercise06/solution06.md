@@ -5,7 +5,7 @@ Potete seguire questa guida: https://devdev.it/guida-gitflow/installazione-confi
 
 2. Inizializzare una repo con ```git-flow``` (stando attenti alla configurazione interattiva)
 ```
-git-flow init
+$ git-flow init
 ```
 ![git-flow init](assets/git-flow-init.png)
 
